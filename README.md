@@ -1,6 +1,6 @@
  <h1 align="center"> Bikcraft Page </h1>
  <h3>Description</h3>
- <p>web and responsive project developed to improve my html and css skills, it consists of a page for a bike shop.</p>
+ <p>web and responsive project developed for academic purposes with a focus on improving my html and css skills, the project consists of a page for a bike shop with images and illustrative texts.</p>
  <h1>✔️ Technologies used</h1>
  <ul>
   <li>HTML</li>
