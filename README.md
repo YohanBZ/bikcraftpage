@@ -5,6 +5,7 @@
  <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>JavaScript</li>
   <li>VScode</li>
  </ul>
  <h1>📁Project access</h1>
